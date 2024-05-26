@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer\n
+I am a Software Engineer/n
 Nagarjuna College Of Engineering And Technology
 
 
